@@ -7,4 +7,5 @@
 4.[Maximum Depth of Binary Tree] 2021/10/19  
 5.[Minimum Depth of Binary Tree] 2021/10/21  
 6.[Single Number] 2021/10/21  
-7.[Path Sum] 2021/10/21
+7.[Path Sum] 2021/10/21  
+8.[Majority Element] 2021/10/22 
