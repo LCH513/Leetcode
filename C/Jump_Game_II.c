@@ -1,3 +1,5 @@
+//greedy
+
 int jump(int* nums, int numsSize){   
     int end = 0;
     int far = 0;
