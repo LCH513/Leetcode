@@ -1,7 +1,7 @@
 # Easy Leetcode Problem
 
 ## Upload date
-| Problem | Complete Date |
+| Problem | Complete Date |  
 | Longest Common Prefix | 2021/10/18 |  
 | Search Insert Position | 2021/10/18 |  
 | Symmetric Tree | 2021/10/19 | 
