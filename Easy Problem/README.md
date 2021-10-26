@@ -1,13 +1,12 @@
 # Easy Leetcode Problem
 
 ## Upload date
-1.[Longest Common Prefix]&nbsp;&nbsp;&nbsp;2021/10/18  
-2.[Search Insert Position]&nbsp;&nbsp;&nbsp;2021/10/18  
-3.[Symmetric Tree]                      2021/10/19  
-4.[Maximum Depth of Binary Tree]        2021/10/19  
-5.[Minimum Depth of Binary Tree]        2021/10/21  
-6.[Single Number]                       2021/10/21  
-7.[Path Sum]                            2021/10/21  
-8.[Majority Element]                    2021/10/22  
-9.[Excel Sheet Column Number]           2021/10/22  
-10.[Palindrome Number]                  2021/10/26
+| Problem | Complete Date |
+| Longest Common Prefix | 2021/10/18 |  
+| Search Insert Position | 2021/10/18 |  
+| Symmetric Tree | 2021/10/19 | 
+| Maximum Depth of Binary Tree | 2021/10/19 |  
+| Minimum Depth of Binary Tree | 2021/10/21 |    
+| Majority Element | 2021/10/22 |  
+| Excel Sheet Column Number | 2021/10/22 |  
+| Palindrome Number | 2021/10/26 |
