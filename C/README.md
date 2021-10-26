@@ -2,7 +2,7 @@
 
 ## Upload date  
 | Problem | Complete Date |  
-| :---: | :---: | 
+| --- | :---: | 
 | Longest Substring Without Repeating Characters | 2021/10/08 |  
 | ZigZag Conversion | 2021/10/18 |  
 | Letter Combinations of a Phone Number | 2021/10/19 |  
