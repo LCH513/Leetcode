@@ -9,4 +9,5 @@
 6.[Single Number] 2021/10/21  
 7.[Path Sum] 2021/10/21  
 8.[Majority Element] 2021/10/22  
-9.[Excel Sheet Column Number] 2021/10/22
+9.[Excel Sheet Column Number] 2021/10/22  
+10[Palindrome Number] 2021/10/26
