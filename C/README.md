@@ -12,3 +12,4 @@
 | Jump Game II | 2021/10/25 |  
 | Container With Most Water | 2021/10/26 |  
 | Longest Palindromic Substring | 2021/10/28 |
+| Remove Nth Node From End of List | 2021/10/28 |
