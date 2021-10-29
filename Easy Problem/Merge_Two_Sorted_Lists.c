@@ -17,7 +17,7 @@ struct ListNode* mergeTwoLists(struct ListNode* l1, struct ListNode* l2){
         }
     }
     if(l1 -> val > l2 -> val){
-        l2 -> next = mergeTwoLists(l1, l2 -> next); // the small one have to find it's next value
+        l2 -> next = mergeTwoLists(l1, l2 -> next); // the small one become node head
         return l2;
     }
     else{
