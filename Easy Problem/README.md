@@ -20,3 +20,4 @@
 | Add Binary | 2021/11/01 |
 | Length of Last Word | 2021/11/02 |
 | Climbing Stairs | 2021/11/08 |
+| Remove Duplicates from Sorted List | 2021/11/08 |
