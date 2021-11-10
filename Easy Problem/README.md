@@ -22,3 +22,4 @@
 | Climbing Stairs | 2021/11/08 |
 | Remove Duplicates from Sorted List | 2021/11/08 |
 | Binary Tree Inorder Traversal | 2021/11/10 |
+| Merge Sorted Array | 2021/11/10 |
