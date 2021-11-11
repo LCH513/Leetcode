@@ -19,8 +19,10 @@ void Traversal(struct TreeNode* root, int* result, int* returnSize){
     }
     Traversal(root -> left, result, returnSize);
     result[(*returnSize)] = root -> val;
-    //*returnSize++ is wrong
-    *returnSize += 1;
+   
+    // *returnSize++ is wrong. returnSize will add one first
+    // (*returnSize)++ is correct
+    *returnSize += 1;  
     Traversal(root -> right, result, returnSize);
 }
 
