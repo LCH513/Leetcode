@@ -16,3 +16,4 @@
 | Search in Rotated Sorted Array | 2021/11/03 |
 | Find First and Last Position of Element in Sorted Array | 2021/11/08|
 | Multiply Strings | 2021/11/12 |
+| Generate Parentheses | 2021/11/24 | 
