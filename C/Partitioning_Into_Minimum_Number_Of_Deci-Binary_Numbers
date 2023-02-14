@@ -1,0 +1,24 @@
+/*A decimal number is called deci-binary if each of its digits is either 0 or 1 without any leading zeros. For example, 101 and 1100 are deci-binary, 
+while 112 and 3001 are not.Given a string n that represents a positive decimal integer, return the minimum number of positive deci-binary numbers 
+needed so that they sum up to n.*/
+
+//Only need to find the max number in n that can know how many times need to add.
+
+int minPartitions(char * n){
+    int temp_max = 0;
+    int length = strlen(n);
+
+    if(length == 0){
+        return 0;
+    }
+
+    else{ 
+        for(int i = 0; i < length; i ++){
+            if(temp_max < (int)(n[i] - '0')){
+                temp_max = (int)(n[i] - '0');
+            }
+        }
+        return temp_max;
+    }
+    
+}
