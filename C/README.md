@@ -17,3 +17,4 @@
 | Find First and Last Position of Element in Sorted Array | 2021/11/08|
 | Multiply Strings | 2021/11/12 |
 | Generate Parentheses | 2021/11/24 | 
+| Partitioning Into Minimum Number Of Deci-Binary Numbers | 2023/02/14 | 
