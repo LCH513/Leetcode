@@ -1,1 +1,1 @@
-# Leetcode Medium Problem in C
+# Leetcode Medium Problems in C
